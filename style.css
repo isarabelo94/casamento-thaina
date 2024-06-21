@@ -1,0 +1,45 @@
+* {
+    text-align: center;
+    font-family: 'Playwrite PL', sans-serif;
+}
+
+body {
+    
+    background-image: url('../imagens/fundo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+h1{
+    font-size: 50px;
+    margin: 80px;
+   
+}
+
+.informe {
+    padding: 50px;
+
+}
+
+
+.textbox {
+    width: 300px;
+}
+
+footer {
+    margin: 100px;
+}
+
+a {
+    color: green;
+}
+
+button {
+    margin-top: 30px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; 
+    opacity: 80%;
+    /* border-radius: 10px 10px 10px 10px;     */
+    
+   
+}
